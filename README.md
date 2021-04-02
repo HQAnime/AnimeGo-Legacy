@@ -1,6 +1,6 @@
 <div align="center">
 <h1>AnimeGo</h1>
-<img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/sketch/Icons/AppIcon.png" width="200px" height="200px" />
+<img src="https://raw.githubusercontent.com/HenryQuan/AnimeGo-Legacy/master/sketch/Icons/AppIcon.png" width="200px" height="200px" />
 
 **This is not official**
 
