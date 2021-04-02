@@ -6,6 +6,7 @@
 
 This is just a practise app made with react native and it is also my first react native app.
 This app works for **UWP** and **Android**. IOS is partially supported but more styling will be needed.
+Use [AnimeGo-Re](https://github.com/HenryQuan/AnimeGo-Re/tree/85753e37de4023f038b591de7d832445a0eb55a3) instead.
 
 如果你喜歡中文字幕的話，可以嘗試[AnimeOne](https://github.com/HenryQuan/AnimeOne)。
 </div>
